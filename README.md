@@ -5,6 +5,6 @@
 ### Skill
 
 - C#
-- Ruby
+- C
+- C++
 - Java
-- SQL
